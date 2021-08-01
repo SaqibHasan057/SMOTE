@@ -1,0 +1,2 @@
+This is a Python project where I used SMOTE algorithm and its variant Distance-SMOTE in order to oversample two popular machine learning datasets, PIMA Diabetes and Ionosphere, from UCI Machine Learning Repository.
+These oversampled datasets are then trained upon using XGBoost algorithm to analyse the effect of algorithm based sample creation on dataset classification.
